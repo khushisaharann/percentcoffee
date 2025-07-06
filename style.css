@@ -1,15 +1,4 @@
-body {
-  background-color: beige;
-}
 h1{
-  color:brown;
-}
-button{
-  color:rgb(127, 63, 28)
-}
-#HeadingOne{
-  color:bisque;
-}
-.myclass{
-  color:blanchedalmond;
+  text-align: center;
+  color: brown;
 }
